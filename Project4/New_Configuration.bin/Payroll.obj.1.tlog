@@ -1,0 +1,7 @@
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin\cobol.exe" C:\Users\Chan\Documents\CST8283-BusinessProgramming\workspace\Project4\Payroll.cbl "INTC:\Users\Chan\Documents\CST8283-BusinessProgramming\workspace\Project4\New_Configuration.bin"" DELINT OBJC:\Users\Chan\Documents\CST8283-BusinessProgramming\workspace\Project4\New_Configuration.bin""" USEC:\Users\Chan\Documents\CST8283-BusinessProgramming\workspace\Project4\New_Configuration.bin\mfant3810951707340822221.dir ;
+^C:\Users\Chan\Documents\CST8283-BusinessProgramming\workspace\Project4\Payroll.cbl
+!C:\COBOLPROJ4\TAXTBL.DAT
++C:\COBOLPROJ4\TAXTBL.DAT
+-C:\COBOLPROJ4\TAXTBL.DAT
+!C:\COBOLPROJ4\MONTHTBL.DAT
++C:\COBOLPROJ4\MONTHTBL.DAT

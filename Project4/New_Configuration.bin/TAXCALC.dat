@@ -1,0 +1,3 @@
+		700-CALC-TAX.
+           MULTIPLY  GROSS-PAY-WS  BY  TAX-RATES(TAX-IND-IN)
+               GIVING TAX-WS.

@@ -1,0 +1,16 @@
+       01  MONTH-NAMES.
+           05  FILLER  PIC X(3) VALUE "JAN".
+           05  FILLER  PIC X(3) VALUE "FEB".
+           05  FILLER  PIC X(3) VALUE "MAR".
+           05  FILLER  PIC X(3) VALUE "APR".
+           05  FILLER  PIC X(3) VALUE "MAY".
+           05  FILLER  PIC X(3) VALUE "JUN".
+           05  FILLER  PIC X(3) VALUE "JUL".
+           05  FILLER  PIC X(3) VALUE "AUG".
+           05  FILLER  PIC X(3) VALUE "SEP".
+           05  FILLER  PIC X(3) VALUE "OCT".
+           05  FILLER  PIC X(3) VALUE "NOV".
+           05  FILLER  PIC X(3) VALUE "DEC".
+           
+       01  MONTH-NAME-TABLE REDEFINES MONTH-NAMES.
+           05  MONTH-NAME OCCURS 12 TIMES PIC X(3).

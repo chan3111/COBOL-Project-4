@@ -1,0 +1,26 @@
+         PAYROLL REGISTER          SAT 22 APR 17
+
+     NAME                       GROSS        TAX   PENSION    HEALTH   NET
+
+  JR     SMITH                 742.00      74.20      7.42     37.10   623.28  PM     JONES                 642.08      77.04     12.84     64.20   488.00
+  RP     JONES                 561.82      89.89     16.85     28.09   426.99
+  FR     HEINLEIN              702.00      84.24     28.08     70.20   519.48
+  RP     HEINLEIN              723.45      72.34      7.23     36.17   607.71
+  AC     CLARKE                516.70      82.67     10.33     51.67   372.03
+  RP     CLARKE                740.14     118.42     22.20     37.00   562.52
+  AR     ASSIMOV               720.00      86.40     72.00     36.00   525.60
+  JR     TOLKEIN               755.91      90.70      7.55     75.59   582.07
+  SP     ROBINSON              560.00      89.60     11.20     28.00   431.20
+     NAME                       GROSS        TAX   PENSION    HEALTH   NET
+
+  P      ROBSON                719.82     143.96     21.59     71.98   482.29  S      ROGERS                388.50      38.85     15.54     19.42   314.69
+  G      ROGERS                556.50      66.78     55.65     55.65   378.42
+         PAYROLL SUMMARY          SAT 22 APR 17
+
+      TOTAL GROSS        $8,328.92      TOTAL NET          $6,314.28
+      TOTAL TAX          $1,115.09
+      TOTAL PENSION        $288.48
+      TOTAL HEALTH         $611.07
+
+
+      RECORDS READ      13      RECORDS WRITTEN   13
